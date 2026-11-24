@@ -8,10 +8,10 @@ Entry for the make.fun bounty "Fortune in a Pot"
 
 import os
 
-# The fortune itself: 105 characters, counted against the 120 cap.
+# The fortune itself: 111 characters, counted against the 120 cap.
 FORTUNE = (
-    "Three new leaves by spring, little fern: the tall window is yours, "
-    "and the cat has already been informed."
+    "Three new leaves by spring, little fern: the tall window is yours. "
+    "The cat has signed the treaty in paw prints."
 )
 
 MAX_CHARS = 120
